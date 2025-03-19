@@ -28,6 +28,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 🔹 **Results:** Developed a **prototype application** that suggests the most optimal meal choices for fast-food users.  
 
 📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/Healthy-Fast-Food-App) 
+
 📊 **Model Visualization:**  
 ![Healthy Fast Food](assets/images/fastfood-optimization.png)  
 
