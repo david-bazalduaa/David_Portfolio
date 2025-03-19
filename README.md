@@ -61,10 +61,3 @@ My experience at **Danone** and other business projects has enabled me to develo
 🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/)  
 
 ---
-
-🚀 **Next Steps:**  
-✅ Upload your projects to **GitHub** (if not already).  
-✅ Add **Power BI dashboards** to the repository (either embedded or as images).  
-✅ Customize your **GitHub Pages website** with this README content.  
-
-Let me know if you need help setting up your **GitHub Pages site!** 🚀  
