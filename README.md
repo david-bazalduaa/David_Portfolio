@@ -11,7 +11,7 @@
 ## **Featured Projects**
 Here are some of my most relevant projects in Data Science, Machine Learning, and Optimization with strong visual skills in Power BI.
 
-### 📊 **1. IMSS Morbidity and Case Prediction**  
+### **1. IMSS Morbidity and Case Prediction**  
 🔹 **Description:** Developed a **Neural Network (Keras) model** to predict health trends for the next three years using real-world data.  
 🔹 **Tools & Technologies:** Python, Keras, Pandas, Power BI  
 🔹 **Results:** Provided actionable insights for IMSS decision-makers, improving forecast accuracy through hyperparameter tuning.  
@@ -22,7 +22,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-### 🍔 **2. Healthy Fast Food Optimization**  
+### **2. Healthy Fast Food Optimization**  
 🔹 **Description:** Designed a **linear programming** model to help users optimize their fast-food meal selections based on calorie intake and nutrition goals.  
 🔹 **Tools & Technologies:** Python, Numpy, Pandas, Linear Programming  
 🔹 **Results:** Developed a **prototype application** that suggests the most optimal meal choices for fast-food users.  
@@ -33,7 +33,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-### 🌎 **3. Air Pollution Data Analysis (Mexico City)**  
+### **3. Air Pollution Data Analysis (Mexico City)**  
 🔹 **Description:** Analyzed **contaminant levels** (O3, NO2, CO, etc.) in different **geographical areas** in Mexico City using real-world **2022 data**.  
 🔹 **Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn  
 🔹 **Results:** Created **visualizations & time-series insights** to identify pollution trends.  
@@ -42,7 +42,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-### 🔢 **4. Dimensionality Reduction on Banknote Data**  
+### **4. Dimensionality Reduction on Banknote Data**  
 🔹 **Description:** Applied **dimensionality reduction techniques** (PCA) to a **banknote authentication dataset**.  
 🔹 **Tools & Technologies:** Python, NumPy, Pandas  
 🔹 **Results:** Improved data efficiency by reducing feature space while maintaining classification accuracy.  
@@ -51,10 +51,10 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-## 📈 **Power BI & Business Intelligence**
+## **Power BI & Business Intelligence**
 My experience at **Danone** and other business projects has enabled me to develop **high-impact dashboards** that improve decision-making processes.
 
-### 🏢 **1. Sales & Business Analytics Dashboard (Danone)**
+### **1. Sales & Business Analytics Dashboard (Danone)**
 🔹 **Description:** Developed a **Power BI dashboard** to improve sales visibility and analyze customer behavior trends.  
 🔹 **Tools & Technologies:** SQL, Power BI, DAX  
 🔹 **Results:** Increased reporting efficiency by **15%**, reducing the time spent on manual data analysis.  
@@ -64,7 +64,7 @@ My experience at **Danone** and other business projects has enabled me to develo
 
 ---
 
-### 📊 **2. Customer Data Analysis for Market Optimization**
+### **2. Customer Data Analysis for Market Optimization**
 🔹 **Description:** Implemented **clustering (K-Means)** to segment customers and enhance targeted marketing strategies.  
 🔹 **Tools & Technologies:** Python, Pandas, Power BI  
 🔹 **Results:** Identified key purchasing patterns that led to **optimized retention strategies** and personalized marketing campaigns.  
