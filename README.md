@@ -16,7 +16,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 🔹 **Tools & Technologies:** Python, Keras, Pandas, Power BI  
 🔹 **Results:** Provided actionable insights for IMSS decision-makers, improving forecast accuracy through hyperparameter tuning.  
 
-📌 **Repository:** [🔗 GitHub](https://github.com/tuusuario/imss-prediction)  
+📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/IMSS-predictive-cases)  
 📊 **Power BI Dashboard:**  
 ![IMSS Dashboard](assets/images/imss-dashboard.png)  
 
