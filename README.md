@@ -42,12 +42,12 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-### **4. Dimensionality Reduction on Banknote Data**  
+### **4. PCA on Banknote Data**  
 🔹 **Description:** Applied **dimensionality reduction techniques** (PCA) to a **banknote authentication dataset**.  
 🔹 **Tools & Technologies:** Python, NumPy, Pandas  
 🔹 **Results:** Improved data efficiency by reducing feature space while maintaining classification accuracy.  
 
-📌 **Repository:** [🔗 GitHub](https://github.com/tuusuario/banknote-dataset-reduction)  
+📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/PCA-BankData)   
 
 ---
 
