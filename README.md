@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 Here are some of my most relevant projects in Data Science, Machine Learning, and Optimization with strong visual skills in Power BI.
 
 ### 📊 **1. IMSS Morbidity and Case Prediction**  
