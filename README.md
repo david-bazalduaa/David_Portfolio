@@ -1,6 +1,6 @@
-# 💻 David Bazaldua | Data Science & Business Intelligence 🚀  
+# 💻 David Bazaldua | Data Science & Business Intelligence 
 
-🎓 **Data Science & Mathematics Engineer** | 🏢 **Experience: Danone | IMSS | TELUS International**  
+🎓 **Data Science & Mathematics Engineer** | 🏢 **Experience: Danone | TELUS International**  
 📊 Specializing in **Machine Learning, Python, SQL, Power BI & Data Visualization**  
 
 📍 Mexico City | 📧 [david.bazmen@gmail.com](mailto:david.bazmen@gmail.com)  
