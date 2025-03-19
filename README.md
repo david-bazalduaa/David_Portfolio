@@ -1,7 +1,7 @@
-# 💻 David Bazaldua | Data Science & Business Intelligence 
+# 💻 David Bazaldua | Data Science
 
 🎓 **Data Science & Mathematics Engineer** | 🏢 **Experience: Danone | TELUS International**  
-📊 Specializing in **Machine Learning, Python, SQL, Power BI & Data Visualization**  
+📊 Specializing in **Machine Learning, Python, SQL, R, Deep Learning, Power BI & Data Visualization**  
 
 📍 Mexico City | 📧 [david.bazmen@gmail.com](mailto:david.bazmen@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/) | 🏠 [GitHub Pages](https://tuusuario.github.io/)
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 **Featured Projects**
-Here are some of my most relevant projects in Data Science, Machine Learning, and Optimization.
+Here are some of my most relevant projects in Data Science, Machine Learning, and Optimization with strong visual skills in Power BI.
 
 ### 📊 **1. IMSS Morbidity and Case Prediction**  
 🔹 **Description:** Developed a **Neural Network (Keras) model** to predict health trends for the next three years using real-world data.  
