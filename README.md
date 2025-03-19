@@ -33,6 +33,24 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
+### 🌎 **3. Air Pollution Data Analysis (Mexico City)**  
+🔹 **Description:** Analyzed **contaminant levels** (O3, NO2, CO, etc.) in different **geographical areas** in Mexico City using real-world **2022 data**.  
+🔹 **Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn  
+🔹 **Results:** Created **visualizations & time-series insights** to identify pollution trends.  
+
+📌 **Repository:** [🔗 GitHub](https://github.com/tuusuario/air-pollution-analysis)  
+
+---
+
+### 🔢 **4. Dimensionality Reduction on Banknote Data**  
+🔹 **Description:** Applied **dimensionality reduction techniques** (PCA or similar) to a **banknote authentication dataset**.  
+🔹 **Tools & Technologies:** Python, NumPy, Pandas  
+🔹 **Results:** Improved data efficiency by reducing feature space while maintaining classification accuracy.  
+
+📌 **Repository:** [🔗 GitHub](https://github.com/tuusuario/banknote-dataset-reduction)  
+
+---
+
 ## 📈 **Power BI & Business Intelligence**
 My experience at **Danone** and other business projects has enabled me to develop **high-impact dashboards** that improve decision-making processes.
 
