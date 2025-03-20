@@ -38,7 +38,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 🔹 **Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn  
 🔹 **Results:** Created **visualizations & time-series insights** to identify pollution trends.  
 
-📌 **Repository:** [🔗 GitHub](https://github.com/tuusuario/air-pollution-analysis)  
+📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/Air-Pollution-Contingency-Prediction-)
 
 ---
 
