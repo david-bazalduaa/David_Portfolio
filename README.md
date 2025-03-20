@@ -29,7 +29,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/Healthy-Fast-Food-App)   
 📊 **Model Visualization:**  
-![Healthy Fast Food](assets/images/fastfood-optimization.png)  
+![Healthy Fast Food](fastfood-optimization.png)  
 
 ---
 
