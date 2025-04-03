@@ -18,7 +18,7 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 📌 **Repository:** [🔗 GitHub](https://github.com/david-bazalduaa/IMSS-predictive-cases)  
 📊 **Power BI Dashboard:**  
-![IMSS Dashboard]([assets/images/imss-dashboard.png])  
+![IMSS Dashboard](PowerBIIMSS.png)  
 
 ---
 
