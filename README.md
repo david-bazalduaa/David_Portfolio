@@ -4,7 +4,7 @@
 📊 Specializing in **Machine Learning, Python, SQL, R, Deep Learning, Applied Mathemathics, Power BI & Data Visualization**  
 
 📍 Mexico City | 📧 [david.bazmen@gmail.com](mailto:david.bazmen@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/) | 🏠 [GitHub Pages](https://tuusuario.github.io/)
+🔗 [LinkedIn](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/) | 🏠 [GitHub Pages]([https://tuusuario.github.io/](https://david-bazalduaa.github.io/David_Portfolio/))
 
 ---
 
