@@ -30,30 +30,53 @@
 </head>
 
 <body class="dark-vertion black-bg">
-
-<!-- NAVIGATION -->
-<header class="black-bg mh-header mh-fixed-nav nav-scroll mh-xs-mobile-nav" id="mh-header">
-  <div class="overlay"></div>
-  <div class="container">
-    <div class="row">
-      <nav class="navbar navbar-expand-lg mh-nav nav-btn">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
-          <span class="navbar-toggler-icon icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto ml-auto">
-            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-            <li class="nav-item active"><a class="nav-link" href="project1-imss.html">IMSS Prediction</a></li>
-            <li class="nav-item"><a class="nav-link" href="project2-fastfood.html">Fast Food Optimization</a></li>
-            <li class="nav-item"><a class="nav-link" href="project3-air.html">Air Pollution SVM</a></li>
-            <li class="nav-item"><a class="nav-link" href="project4-banknote.html">Banknote PCA</a></li>
-            <li class="nav-item"><a class="nav-link" href="experience.html">Work Experience</a></li>
-          </ul>
+    <body class="dark-vertion black-bg">
+        
+        <!-- Start Loader -->
+        <div class="section-loader">
+            <div class="loader">
+                <div></div>
+                <div></div> 
+            </div>
         </div>
-      </nav>
-    </div>
-  </div>
-</header>
+    <header class="black-bg mh-header mh-fixed-nav nav-scroll mh-xs-mobile-nav" id="mh-header">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg mh-nav nav-btn">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon icon"></span>
+                    </button>
+    
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item active">
+                                <a class="nav-link" href="project1-imss.html">IMSS Prediction</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="project2-fastfood.html">Fast Food Optimization</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="project3-air.html">Air Pollution SVM</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="project4-banknote.html">Banknote PCA</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="experience.html">Work Experience</a>
+                            </li>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+    
 
 <!-- PROJECT CONTENT -->
 <section class="mh-about" id="mh-about">
@@ -68,9 +91,7 @@
             This project focuses on building a predictive model to forecast morbidity trends within the Mexican Social Security Institute (IMSS). 
             Using historical structured datasets, we developed a neural network with <strong>Keras</strong> capable of projecting the number of disease-related cases for the years <strong>2025 and 2026</strong>. 
             The model incorporates temporal patterns, and its results are fully visualized through a dynamic <strong>Power BI</strong> dashboard.
-            <br><br>
             By interacting with the dashboard (page 2, using the <kbd>Ctrl</kbd> key), stakeholders can analyze the behavior of various IMSS assets, observing where increases or decreases are projected in medical service areas and investments.
-            <br><br>
             Beyond prediction, the analysis enabled us to generate strategic recommendations for IMSS decision-makers, highlighting areas of opportunity, operational risks, and potential shifts in resource allocation. 
             This end-to-end approach—from modeling to storytelling delivers data-driven insights tailored for public health management.
           </p>          
@@ -112,13 +133,36 @@
   </div>
 </footer>
 
-<!-- JS Plugins -->
-<script src="assets/plugins/js/jquery.min.js"></script>
-<script src="assets/plugins/js/bootstrap.min.js"></script>
-<script src="assets/plugins/js/owl.carousel.min.js"></script>
-<script src="assets/plugins/js/jquery.fancybox.min.js"></script>
-<script src="assets/plugins/js/wow.min.js"></script>
-<script src="assets/js/custom-scripts.js"></script>
+    
+    <!-- jQuery -->
+    <script src="assets/plugins/js/jquery.min.js"></script>
+    <!-- popper -->
+    <script src="assets/plugins/js/popper.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets/plugins/js/bootstrap.min.js"></script>
+    <!-- owl carousel -->
+    <script src="assets/plugins/js/owl.carousel.js"></script>
+    <!-- validator -->
+    <script src="assets/plugins/js/validator.min.js"></script>
+    <!-- wow -->
+    <script src="assets/plugins/js/wow.min.js"></script>
+    <!-- mixin js-->
+    <script src="assets/plugins/js/jquery.mixitup.min.js"></script>
+    <!-- circle progress-->
+    <script src="assets/plugins/js/circle-progress.js"></script>
+    <!-- jquery nav -->
+    <script src="assets/plugins/js/jquery.nav.js"></script>
+    <!-- Fancybox js-->
+    <script src="assets/plugins/js/jquery.fancybox.min.js"></script>
+    <!-- Map api -->
+    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyCRP2E3BhaVKYs7BvNytBNumU0MBmjhhxc"></script>
+    <!-- isotope js-->
+    <script src="assets/plugins/js/isotope.pkgd.js"></script>
+    <script src="assets/plugins/js/packery-mode.pkgd.js"></script>
+    <!-- Custom Scripts-->
+    <script src="assets/js/map-init.js"></script>
+    <script src="assets/js/custom-scripts.js"></script>
+
 
 </body>
 </html>
