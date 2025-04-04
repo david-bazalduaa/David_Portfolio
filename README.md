@@ -51,31 +51,33 @@ Here are some of my most relevant projects in Data Science, Machine Learning, an
 
 ---
 
-## **Power BI & Business Intelligence**
-My experience at **Danone** and other business projects has enabled me to develop **high-impact dashboards** that improve decision-making processes.
+## **Work Experience**
 
-### **1. Sales & Business Analytics Dashboard (Danone)**
-🔹 **Description:** Developed a **Power BI dashboard** to improve sales visibility and analyze customer behavior trends.  
-🔹 **Tools & Technologies:** SQL, Power BI, DAX  
-🔹 **Results:** Increased reporting efficiency by **15%**, reducing the time spent on manual data analysis.  
+My professional journey—especially at **Danone**—has allowed me to design and implement **data-driven dashboards** that support strategic decisions across cybersecurity, risk monitoring, and IT operations.
+
+### **1. Cybersecurity Risk Dashboard (Danone)**  
+🔹 **Description:** Built a comprehensive dashboard to analyze and monitor **potential risks across critical applications** within Danone. This dashboard simplifies communication for stakeholders, helping identify vulnerabilities in areas such as Data Security, Identity & Access Control, and Resilience.  
+🔹 **Tools & Technologies:** Power BI, DAX, Excel, Control Matrix Integration  
+🔹 **Results:** Enabled risk-based prioritization, fostering faster decision-making across IT & Compliance teams.  
 
 📌 **Dashboard Preview:**  
-![Danone Power BI](assets/images/danone-dashboard.png)  
+![Danone Cybersecurity Dashboard](danone1.png)  
+_**Note:** Some sections have been blurred to comply with Danone’s data confidentiality policies._
 
 ---
 
-### **2. Customer Data Analysis for Market Optimization**
-🔹 **Description:** Implemented **clustering (K-Means)** to segment customers and enhance targeted marketing strategies.  
-🔹 **Tools & Technologies:** Python, Pandas, Power BI  
-🔹 **Results:** Identified key purchasing patterns that led to **optimized retention strategies** and personalized marketing campaigns.  
+### **2. SAP Incident Management Dashboard (Danone)**  
+🔹 **Description:** Created a live dashboard to **track incident resolution across SAP modules**, helping department leaders visualize workload and improve SLA adherence.  
+🔹 **Tools & Technologies:** Power BI, Excel Automation  
+🔹 **Results:** Improved visibility into ticket handling, which significantly **reduced resolution time** and enhanced the coordination between SAP support teams and business users.  
 
 📌 **Dashboard Preview:**  
-![Customer Analytics](assets/images/customer-analytics.png)  
+![Danone SAP Dashboard](danone2.png)  
+_**Note:** Dashboard contains blurred data to preserve internal confidentiality._
 
 ---
 
 ## 📬 **Contact**
 📧 **Email:** [david.bazmen@gmail.com](mailto:david.bazmen@gmail.com)  
-🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/)  
+🔗 **LinkedIn:** [David Bazaldúa Méndez](https://www.linkedin.com/in/david-bazald%C3%BAa-m%C3%A9ndez-972630277/)  
 
----
