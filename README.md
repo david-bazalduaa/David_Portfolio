@@ -61,7 +61,7 @@ My professional journey—especially at **Danone**—has allowed me to design an
 🔹 **Results:** Enabled risk-based prioritization, fostering faster decision-making across IT & Compliance teams.  
 
 📌 **Dashboard Preview:**  
-![Danone Cybersecurity Dashboard](danone2.png)  
+![Danone Cybersecurity Dashboard](danone1.png)  
 _**Note:** Some sections have been blurred to comply with Danone’s data confidentiality policies._
 
 ---
@@ -72,7 +72,7 @@ _**Note:** Some sections have been blurred to comply with Danone’s data confid
 🔹 **Results:** Improved visibility into ticket handling, which significantly **reduced resolution time** and enhanced the coordination between SAP support teams and business users.  
 
 📌 **Dashboard Preview:**  
-![Danone SAP Dashboard](danone1.png)  
+![Danone SAP Dashboard](danone2.png)  
 _**Note:** Dashboard contains blurred data to preserve internal confidentiality._
 
 ---
